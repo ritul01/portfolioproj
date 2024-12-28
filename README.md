@@ -24,3 +24,16 @@ To run the project on your local machine:
 1. Clone the repository
 ```bash
 git clone git@github.com:ritul01/portfolioproj.git
+```
+2. Navigate to the project directory:
+```bash
+cd portfolioproj
+```
+3. Install dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm run dev
+```
