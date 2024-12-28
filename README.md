@@ -37,3 +37,9 @@ npm install
 ```bash
 npm run dev
 ```
+5. Open your browser and navigate to `http://localhost:3000`
+
+# 📧 Contact
+- **Email**: [ritulsingh123700@gmail.com](mailto:ritulsingh123700@gmail.com)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/ritul-singh-7738a2227/)
+- **Github**: [Github](https://github.com/ritul01)
