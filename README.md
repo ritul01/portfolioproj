@@ -12,4 +12,15 @@ Hi! I'm Ritul Singh, a passionate software engineer and developer with a strong 
 
 # 🛠️ Tech Stack
 - **Frontend**: React.js, HTML5, JavaScript, Tailwind CSS
-- **Chatbot**: Chat base [https://www.chatbase.co/](https://www.chatbase.co/)
+- **Chatbot**: Chat base [chatbase.co](https://www.chatbase.co/)
+- **Others**: Vite
+
+# 📂 Project Structure
+- **/src**: Contains all the source code for the project.  
+- **index.html**: Entry point of the application.  
+
+# 💻 Running Locally
+To run the project on your local machine:
+1. Clone the repository
+```bash
+git clone git@github.com:ritul01/portfolioproj.git
