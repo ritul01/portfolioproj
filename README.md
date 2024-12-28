@@ -7,7 +7,9 @@ Hi! I'm Ritul Singh, a passionate software engineer and developer with a strong 
 # 🌐 Features
 - **Modern Design**: A clean and responsive design for an optimal user experience.
 - **Skills**:  A comprehensive overview of my technical skills in the respective fields.
--**Resume**: Downloadable resume for a quick overview of my qualifications and achievements.
--**Contact Information**: Easily contact me through my phone number, email, and address, with links to my social profiles also provided.
+- **Resume**: Downloadable resume for a quick overview of my qualifications and achievements.
+- **Contact Information**: Easily contact me through my phone number, email, and address, with links to my social profiles also provided.
 
 # 🛠️ Tech Stack
+- **Frontend**: React.js, HTML5, JavaScript, Tailwind CSS
+- **Chatbot**: Chat base [https://www.chatbase.co/](https://www.chatbase.co/)
