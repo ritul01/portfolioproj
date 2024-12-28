@@ -9,12 +9,10 @@ function Contact() {
       <h2 className="my-10 text-center text-4xl">Contact Me</h2>
       <div className="text-center tracking-tighter">
         <p className="my-4">
-          Brahmputra Hostel, Ashok Rajpath, Patna, 800006, Bihar
+          Brahmputra Hostel, NIT Patna, Ashok Rajpath, Patna, 800006, Bihar
         </p>
         <p className="my-4">+91 7378125935</p>
-        <a href="#" className="border-b">
-          ritulsingh123700@gmail.com
-        </a>
+        <p className="my-4">ritulsingh123700@gmail.com</p>
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <FaLinkedin

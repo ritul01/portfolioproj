@@ -11,7 +11,7 @@ const Resume = () => {
         </p>
         <h2 className="text-2xl font-bold text-black-800 mb-4">Resume Link</h2>
         <p className="text-black-600 mb-6">
-          Click Here to see my resume
+          Click Below to see my resume
         </p>
         <a
           href="https://drive.google.com/file/d/1PrV6F3JcJGW72YVvq0WTz_PUTmr9sHce/view?usp=drive_link" // Replace with your desired link
